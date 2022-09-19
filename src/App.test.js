@@ -1,5 +1,5 @@
 import React from "react";
-import { render } from "react-dom";
+//import { render } from "react-dom";
 window.React = React;
 import { render } from "@testing-library/react";
 import App from "./App";
